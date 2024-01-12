@@ -1,0 +1,9 @@
+@inproceedings{REPO175,
+    author = "Jiang, Li and Zhao, Hengshuang and Shi, Shaoshuai and Liu, Shu and Fu, Chi-Wing and Jia, Jiaya",
+    booktitle = "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    number = "",
+    pages = "4866-4875",
+    title = "{PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation}",
+    volume = "",
+    year = "2020"
+}
